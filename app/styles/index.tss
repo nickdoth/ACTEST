@@ -23,6 +23,10 @@
     }
 }
 
+"Annotation": {
+	rightButton: Titanium.UI.iPhone.SystemButton.DISCLOSURE
+}
+
 "#acHall": {
     latitude: 22.341072,
     longitude: 114.179645, 

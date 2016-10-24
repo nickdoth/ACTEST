@@ -4,3 +4,9 @@ function btnClick(e) {
 }
 
 $.index.open();
+
+function mapNotiBtnClick(e) {
+	if (e.clicksource == 'rightButton') {
+		alert('mapNotiBtnClick');
+	}
+}
