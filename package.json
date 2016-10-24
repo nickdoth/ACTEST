@@ -1,0 +1,23 @@
+{
+  "name": "actest",
+  "version": "1.0.0",
+  "description": "Welcome to your Appcelerator Titanium Mobile Project",
+  "main": "app/alloy.js",
+  "dependencies": {
+    "alloy-sync-sqlrest": "^0.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdoth/ACTEST.git"
+  },
+  "author": "nickdoth",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nickdoth/ACTEST/issues"
+  },
+  "homepage": "https://github.com/nickdoth/ACTEST#readme"
+}
