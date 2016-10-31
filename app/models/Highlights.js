@@ -7,7 +7,7 @@ exports.definition = {
 		},
 		adapter: {
 			type: "sqlrest",
-			collection_name: "property",
+			collection_name: "Highlights",
 			idAttribute: "id",
 
 			// optimise the amount of data transfer from remote server to app
